@@ -1,0 +1,6 @@
+example movie A, 4, 03/29/2003
+example movie B, 4, 02/27/2005
+example movie C, 5, 11/12/2001
+example movie d, 5, 11/12/2003
+example movie e, 5, 11/12/2005
+example movie f, 5, 11/12/2005
